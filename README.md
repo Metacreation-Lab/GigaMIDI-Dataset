@@ -24,6 +24,8 @@ Assistance: Jeff Ens, Sara Adkins, Nathan Fradet, Pedro Sarmento, Mathieu Barthe
 
 Research Director: Philippe Pasquier
 
+GigaMIDI Graphic Logo Design: Arshia Sobhan
+
 ### Citation/Reference
 
 If you use the GigaMIDI dataset or any part of this project, please cite the following paper:
