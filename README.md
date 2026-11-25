@@ -179,18 +179,24 @@ This repository contains a highly parallelized Python pipeline for detecting bot
 
 ## 📦 Installation
 
-1. Clone this repo alongside your local `loops_nomml` checkout:
+1. Clone this repo:
 
    ```bash
-   git clone https://github.com/YourUser/expressive-loop-detect.git
-   cd expressive-loop-detect
+   git clone https://github.com/Metacreation-Lab/GigaMIDI-Dataset.git
+   cd GigaMIDI-Dataset
    ```
-2. (Optional) Create & activate a virtual environment:
+2. (Optional) Create & activate a virtual environment, then install the package:
 
    ```bash
    python3 -m venv venv
    source venv/bin/activate
-   pip install -r requirements.txt
+   pip install .
+   ```
+3. (Optional) Run the tests:
+
+   ```bash
+   pip install ".[tests]"
+   pytest tests
    ```
 
 ---
